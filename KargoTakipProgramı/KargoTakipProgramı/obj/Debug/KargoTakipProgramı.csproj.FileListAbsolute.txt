@@ -1,0 +1,16 @@
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\bin\Debug\KargoTakipProgramı.exe.config
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\bin\Debug\KargoTakipProgramı.exe
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\bin\Debug\KargoTakipProgramı.pdb
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.csproj.AssemblyReference.cache
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.Form1.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.Frmkargoekle.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.Frmkargolistele.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.FrmpersonelListesi.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.kargoSorgula.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.PersonelKayıt.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.Properties.Resources.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.YöneticiGiris.resources
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.csproj.GenerateResource.cache
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.exe
+C:\Users\Mehmet Taşdemir\OneDrive\Masaüstü\2.Sınıf Dersler\KargoTakip\KargoTakipProgramı\KargoTakipProgramı\obj\Debug\KargoTakipProgramı.pdb
